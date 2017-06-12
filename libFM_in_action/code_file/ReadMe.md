@@ -18,4 +18,5 @@ To reproduce the best submission,you should do follow steps.
 **Note**:
 
 1.The result is randomness to some degree,but not too much.For the method mcmc is randomness begin.
+
 2.You can use offline_test in data_change to make val data.May get a beter param.
